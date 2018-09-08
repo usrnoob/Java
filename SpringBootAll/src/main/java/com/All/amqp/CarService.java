@@ -32,4 +32,7 @@ public class CarService {
 		//得到消息头信息
 		System.out.println(message.getMessageProperties());
 	}
+
+
+
 }
